@@ -1,0 +1,20 @@
+[
+    {
+        "title": "the alchemist",
+        "author": "paulo coelho",
+        "price": 12.99,
+        "in_stock": true
+    },
+    {
+        "title": "1984",
+        "author": "george orwell",
+        "price": 9.99,
+        "in_stock": true
+    },
+    {
+        "title": "atomic habits",
+        "author": "james clear",
+        "price": 14.99,
+        "in_stock": true
+    }
+]
